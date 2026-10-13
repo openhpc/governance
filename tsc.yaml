@@ -1,0 +1,606 @@
+# OpenHPC Technical Steering Committee (TSC) roster.
+#
+# This file is the machine-readable source of truth for TSC membership.
+# TSC.md is generated from it; do not edit TSC.md by hand. After changing
+# this file run:
+#
+#     ./scripts/render-tsc.py
+#
+# Terms run from July 1 to June 30. The first entry in `terms` is the
+# current term. Roles:
+#   project-lead, interim-project-lead, technical-lead, maintainer,
+#   end-user-representative, component-development-representative,
+#   testing-coordinator, member (used from 2025-2026 on, when the TSC
+#   stopped assigning per-member roles)
+#
+# `email` and `github` are optional per member.
+
+terms:
+  - term: 2026-2027
+    start: 2026-07-01
+    end: 2027-06-30
+    members:
+      - name: Reese Baird
+        affiliation: Radiant Nuclear
+        roles: [member]
+      - name: David Brayford
+        affiliation: HPE
+        roles: [member]
+      - name: Richard Dahringer
+        affiliation: Intel
+        roles: [member]
+      - name: Timothy Middelkoop
+        affiliation: Internet2
+        roles: [member]
+      - name: Adrian Reber
+        affiliation: Amutable
+        roles: [project-lead, member]
+      - name: Mike Renfro
+        affiliation: Tennessee Tech
+        roles: [member]
+      - name: Derek Simmel
+        affiliation: Pittsburgh Supercomputing Center
+        roles: [member]
+      - name: Christopher S. Simmons
+        affiliation: Cambridge Computing
+        roles: [member]
+    linux-foundation-support:
+      - name: Chris Clark
+        role: OpenHPC Program Manager
+
+  - term: 2025-2026
+    start: 2025-07-01
+    end: 2026-06-30
+    members:
+      - name: Reese Baird
+        affiliation: The Aerospace Corporation
+        roles: [member]
+      - name: David Brayford
+        affiliation: HPE
+        roles: [member]
+      - name: Weijun Lu
+        affiliation: Huawei
+        roles: [member]
+      - name: Timothy Middelkoop
+        affiliation: Internet2
+        roles: [member]
+      - name: Adrian Reber
+        affiliation: Red Hat
+        roles: [project-lead, member]
+      - name: Jeremy Siadal
+        affiliation: Intel
+        roles: [member]
+      - name: Derek Simmel
+        affiliation: Pittsburgh Supercomputing Center
+        roles: [member]
+      - name: Christopher S. Simmons
+        affiliation: Cambridge Computing
+        roles: [member]
+      - name: Caesar Stoica
+        affiliation: Lenovo
+        roles: [member]
+
+  - term: 2024-2025
+    start: 2024-07-01
+    end: 2025-06-30
+    members:
+      - name: Reese Baird
+        affiliation: Guardant Health
+        roles: [maintainer]
+      - name: David Brayford
+        affiliation: HPE
+        roles: [maintainer]
+      - name: Martin Grigorov
+        affiliation: Huawei
+        roles: [maintainer]
+      - name: Adrian Reber
+        affiliation: Red Hat
+        roles: [project-lead, maintainer, testing-coordinator]
+      - name: Jeremy Siadal
+        affiliation: Intel
+        roles: [maintainer]
+      - name: Christopher S. Simmons
+        affiliation: Cambridge Computing
+        roles: [maintainer]
+      - name: Chris Downing
+        affiliation: Amazon Web Services
+        roles: [maintainer]
+      - name: Forrest Ling
+        affiliation: easyHPC
+        roles: [end-user-representative]
+      - name: Derek Simmel
+        affiliation: Pittsburgh Supercomputing Center
+        roles: [end-user-representative]
+      - name: Jason Wells
+        affiliation: Harvard
+        roles: [end-user-representative]
+      - name: Caesar Stoica
+        affiliation: Lenovo
+        roles: [end-user-representative]
+      - name: Michael Karo
+        affiliation: Altair
+        roles: [component-development-representative]
+      - name: Karl W. Schulz
+        affiliation: AMD
+        roles: [testing-coordinator]
+
+  - term: 2023-2024
+    start: 2023-07-01
+    end: 2024-06-30
+    members:
+      - name: Reese Baird
+        affiliation: SpaceX
+        roles: [maintainer]
+      - name: David Brayford
+        affiliation: HPE
+        roles: [maintainer]
+      - name: Martin Grigorov
+        affiliation: Huawei
+        roles: [maintainer]
+      - name: Adrian Reber
+        affiliation: Red Hat
+        roles: [technical-lead, maintainer]
+      - name: Phil Regier
+        affiliation: SUSE
+        roles: [maintainer]
+      - name: Karl W. Schulz
+        affiliation: AMD
+        roles: [maintainer, testing-coordinator]
+      - name: Jeremy Siadal
+        affiliation: Intel
+        roles: [maintainer]
+      - name: Christopher S. Simmons
+        affiliation: MGHPCC
+        roles: [project-lead, maintainer]
+      - name: Caesar Stoica
+        affiliation: Lenovo
+        roles: [maintainer]
+      - name: Alfred Egger
+        affiliation: University of Salzburg
+        roles: [end-user-representative]
+      - name: Sol Jerome
+        affiliation: UMass Amherst
+        roles: [end-user-representative]
+      - name: Forrest Ling
+        affiliation: easyHPC
+        roles: [end-user-representative]
+      - name: Derek Simmel
+        affiliation: Pittsburgh Supercomputing Center
+        roles: [end-user-representative]
+      - name: Jason Wells
+        affiliation: Harvard
+        roles: [end-user-representative]
+      - name: Michael Karo
+        affiliation: Altair
+        roles: [component-development-representative]
+
+  - term: 2022-2023
+    start: 2022-07-01
+    end: 2023-06-30
+    members:
+      - name: Reese Baird
+        affiliation: SpaceX
+        roles: [maintainer]
+      - name: David Brayford
+        affiliation: Intel
+        roles: [maintainer]
+      - name: Chris Downing
+        affiliation: Amazon Web Services
+        roles: [maintainer]
+      - name: Brent Gordo
+        affiliation: Arm
+        roles: [maintainer]
+      - name: Adrian Reber
+        affiliation: Red Hat
+        roles: [maintainer]
+      - name: Jeremy Siadal
+        affiliation: Intel
+        roles: [maintainer]
+      - name: Caesar Stoica
+        affiliation: Lenovo
+        roles: [maintainer]
+      - name: Karl W. Schulz
+        affiliation: AMD
+        roles: [maintainer, testing-coordinator]
+      - name: Eric Coulter
+        affiliation: Georgia Institute of Technology
+        roles: [end-user-representative]
+      - name: Alfred Egger
+        affiliation: University of Salzburg
+        roles: [end-user-representative]
+      - name: Christopher Simmons
+        affiliation: UT Dallas
+        roles: [project-lead, end-user-representative]
+      - name: Derek Simmel
+        affiliation: Pittsburgh Supercomputing Center
+        roles: [end-user-representative]
+      - name: Jason Wells
+        affiliation: Harvard
+        roles: [end-user-representative]
+      - name: Michael Karo
+        affiliation: Altair
+        roles: [component-development-representative]
+
+  - term: 2021-2022
+    start: 2021-07-01
+    end: 2022-06-30
+    members:
+      - name: Reese Baird
+        affiliation: SpaceX
+        roles: [maintainer]
+      - name: David Brayford
+        affiliation: LRZ
+        roles: [maintainer]
+      - name: Chris Downing
+        affiliation: Amazon Web Services
+        roles: [maintainer]
+      - name: Richard Henwood
+        affiliation: Arm
+        roles: [maintainer]
+      - name: Amarpal Kapoor
+        affiliation: Intel
+        roles: [maintainer]
+      - name: Cyrus Proctor
+        affiliation: Speqtral Quantum Technologies
+        roles: [maintainer]
+      - name: Adrian Reber
+        affiliation: Red Hat
+        roles: [maintainer]
+      - name: Jeremy Siadal
+        affiliation: Intel
+        roles: [maintainer]
+      - name: Caesar Stoica
+        affiliation: Lenovo
+        roles: [maintainer]
+      - name: Nirmala Sundararajan
+        affiliation: Dell
+        roles: [maintainer]
+      - name: Karl W. Schulz
+        affiliation: AMD
+        roles: [maintainer, testing-coordinator]
+      - name: Eric Coulter
+        affiliation: Indiana University
+        roles: [end-user-representative]
+      - name: Caetano Melone
+        affiliation: Stanford
+        roles: [end-user-representative]
+      - name: Christopher Simmons
+        affiliation: UT Dallas
+        roles: [interim-project-lead, end-user-representative]
+      - name: Derek Simmel
+        affiliation: Pittsburgh Supercomputing Center
+        roles: [end-user-representative]
+      - name: Jason Wells
+        affiliation: Harvard
+        roles: [end-user-representative]
+      - name: Michael Karo
+        affiliation: Altair
+        roles: [component-development-representative]
+
+  - term: 2020-2021
+    start: 2020-07-01
+    end: 2021-06-30
+    members:
+      - name: Reese Baird
+        affiliation: SpaceX
+        roles: [maintainer]
+      - name: David Brayford
+        affiliation: LRZ
+        roles: [maintainer]
+      - name: Chris Downing
+        affiliation: Amazon Web Services
+        roles: [maintainer]
+      - name: Craig Gardner
+        affiliation: SUSE
+        roles: [maintainer]
+      - name: Stephen Harrell
+        affiliation: TACC
+        roles: [maintainer]
+      - name: Nam Pho
+        affiliation: University of Washington
+        roles: [maintainer]
+      - name: Cyrus Proctor
+        affiliation: Speqtral Quantum Technologies
+        roles: [maintainer]
+      - name: Adrian Reber
+        affiliation: Red Hat
+        roles: [maintainer]
+      - name: Jeremy Siadal
+        affiliation: Intel
+        roles: [maintainer]
+      - name: Raja Subramani
+        affiliation: Dell
+        roles: [maintainer]
+      - name: Nirmala Sundararajan
+        affiliation: Dell
+        roles: [maintainer]
+      - name: Srinath Vadlamani
+        affiliation: Arm
+        roles: [maintainer]
+      - name: Eric Coulter
+        affiliation: Indiana University
+        roles: [end-user-representative]
+      - name: Caetano Melone
+        affiliation: Stanford
+        roles: [end-user-representative]
+      - name: Christopher Simmons
+        affiliation: UT Dallas
+        roles: [end-user-representative]
+      - name: Derek Simmel
+        affiliation: Pittsburgh Supercomputing Center
+        roles: [end-user-representative]
+      - name: Michael Karo
+        affiliation: Altair
+        roles: [component-development-representative]
+      - name: Paul Isaacs
+        affiliation: Linaro
+        roles: [testing-coordinator]
+      - name: Karl W. Schulz
+        affiliation: UT Austin
+        roles: [project-lead, testing-coordinator]
+
+  - term: 2019-2020
+    start: 2019-07-01
+    end: 2020-06-30
+    members:
+      - name: Reese Baird
+        affiliation: SpaceX
+        roles: [maintainer]
+      - name: Aaron Blakeman
+        affiliation: Intel
+        roles: [maintainer]
+      - name: David Brayford
+        affiliation: LRZ
+        roles: [maintainer]
+      - name: Chris Downing
+        affiliation: Amazon Web Services
+        roles: [maintainer]
+      - name: Craig Gardner
+        affiliation: SUSE
+        roles: [maintainer]
+      - name: Oguzhan Herkiloglu
+        affiliation: Comodo
+        roles: [maintainer]
+      - name: Alex Lovell-Troy
+        affiliation: Cray
+        roles: [maintainer]
+      - name: Takayuki Okamoto
+        affiliation: Fujitsu
+        roles: [maintainer]
+      - name: Kevin Pedretti
+        affiliation: Sandia National Laboratories
+        roles: [maintainer]
+      - name: Nam Pho
+        affiliation: University of Washington
+        roles: [maintainer]
+      - name: Cyrus Proctor
+        affiliation: Texas Advanced Computing Center
+        roles: [maintainer]
+      - name: Adrian Reber
+        affiliation: Red Hat
+        roles: [maintainer]
+      - name: Ashish K Singh
+        affiliation: Dell
+        roles: [maintainer]
+      - name: Raja Subramani
+        affiliation: Dell
+        roles: [maintainer]
+      - name: Nirmala Sundararajan
+        affiliation: Dell
+        roles: [maintainer]
+      - name: Christopher Simmons
+        affiliation: UT Dallas
+        roles: [end-user-representative]
+      - name: Eric Coulter
+        affiliation: Indiana University
+        roles: [end-user-representative]
+      - name: Derek Simmel
+        affiliation: PSC
+        roles: [end-user-representative]
+      - name: Michael Karo
+        affiliation: Altair
+        roles: [component-development-representative]
+      - name: Karl W. Schulz
+        affiliation: UT Austin
+        roles: [project-lead, testing-coordinator]
+
+  - term: 2018-2019
+    start: 2018-07-01
+    end: 2019-06-30
+    members:
+      - name: Craig Gardner
+        affiliation: SUSE
+        roles: [maintainer]
+      - name: Nirmala Sundararajan
+        affiliation: Dell EMC
+        roles: [maintainer]
+      - name: Kevin Pedretti
+        affiliation: Sandia
+        roles: [maintainer]
+      - name: David Brayford
+        affiliation: LRZ
+        roles: [maintainer]
+      - name: Nam Pho
+        affiliation: Harvard Medical School
+        roles: [maintainer]
+      - name: Cyrus Proctor
+        affiliation: TACC
+        roles: [maintainer]
+      - name: Adrian Reber
+        affiliation: Red Hat
+        roles: [maintainer]
+      - name: Paul Peltz
+        affiliation: Los Alamos
+        roles: [maintainer]
+      - name: Takayuki Okamoto
+        affiliation: Fujitsu
+        roles: [maintainer]
+      - name: Janet Lebens
+        affiliation: Cray
+        roles: [maintainer]
+      - name: Reese Baird
+        affiliation: SpaceX
+        roles: [maintainer]
+      - name: Michael Karo
+        affiliation: Altair
+        roles: [maintainer]
+      - name: Thomas Moschny
+        affiliation: ParTec Cluster Competence Center
+        roles: [maintainer]
+      - name: Chris Downing
+        affiliation: Amazon Web Services
+        roles: [maintainer]
+      - name: Christopher Simmons
+        affiliation: UT Dallas
+        roles: [end-user-representative]
+      - name: Eric Coulter
+        affiliation: Indiana University
+        roles: [end-user-representative]
+      - name: Derek Simmel
+        affiliation: PSC
+        roles: [end-user-representative]
+      - name: Jeff Schutkoske
+        affiliation: Cray
+        roles: [component-development-representative]
+      - name: Renato Golin
+        affiliation: Linaro
+        roles: [testing-coordinator]
+      - name: Karl W. Schulz
+        affiliation: UT Austin
+        roles: [project-lead, testing-coordinator]
+
+  - term: 2017-2018
+    start: 2017-07-01
+    end: 2018-06-30
+    members:
+      - name: Reese Baird
+        affiliation: Intel
+        roles: [maintainer]
+      - name: David Brayford
+        affiliation: LRZ
+        roles: [maintainer]
+      - name: Eric Coulter
+        affiliation: Indiana University
+        roles: [end-user-representative]
+      - name: Leonordo Fialho
+        affiliation: ATOS
+        roles: [maintainer]
+      - name: Todd Gamblin
+        affiliation: Lawrence Livermore National Laboratory
+        roles: [component-development-representative]
+      - name: Craig Gardner
+        affiliation: SUSE
+        roles: [maintainer]
+      - name: Renato Golin
+        affiliation: Linaro
+        roles: [testing-coordinator]
+      - name: Jennifer Green
+        affiliation: Los Alamos National Laboratory
+        roles: [maintainer]
+      - name: Douglas Jacobsen
+        affiliation: NERSC
+        roles: [end-user-representative]
+      - name: Chulho Kim
+        affiliation: Lenovo
+        roles: [maintainer]
+      - name: Janet Lebens
+        affiliation: Cray
+        roles: [maintainer]
+      - name: Thomas Moschny
+        affiliation: ParTec
+        roles: [maintainer]
+      - name: Nam Pho
+        affiliation: New York Langone Medical Center
+        roles: [maintainer]
+      - name: Cyrus Proctor
+        affiliation: Texas Advanced Computing Center
+        roles: [maintainer]
+      - name: Adrian Reber
+        affiliation: Red Hat
+        roles: [maintainer]
+      - name: Joseph Stanfield
+        affiliation: Dell
+        roles: [maintainer]
+      - name: Karl W. Schulz
+        affiliation: Intel
+        roles: [project-lead, testing-coordinator]
+      - name: Jeff Schutkoske
+        affiliation: Cray
+        roles: [component-development-representative]
+      - name: Derek Simmel
+        affiliation: Pittsburgh Supercomputing Center
+        roles: [end-user-representative]
+      - name: Scott Suchyta
+        affiliation: Altair
+        roles: [maintainer]
+      - name: Nirmala Sundararajan
+        affiliation: Dell
+        roles: [maintainer]
+    linux-foundation-support:
+      - name: Jeff ErnstFriedman
+        role: OpenHPC Program Manager
+
+  - term: 2016-2017
+    start: 2016-07-01
+    end: 2017-06-30
+    members:
+      - name: Reese Baird
+        affiliation: Intel
+        roles: [maintainer]
+      - name: Pavan Balaji
+        affiliation: Argonne National Laboratory
+        roles: [maintainer]
+      - name: David Brayford
+        affiliation: LRZ
+        roles: [maintainer]
+      - name: Todd Gamblin
+        affiliation: Lawrence Livermore National Labs
+        roles: [maintainer]
+      - name: Craig Gardner
+        affiliation: SUSE
+        roles: [maintainer]
+      - name: Yiannis Georgiou
+        affiliation: ATOS
+        roles: [maintainer]
+      - name: Balazs Gerofi
+        affiliation: RIKEN
+        roles: [component-development-representative]
+      - name: Jennifer Green
+        affiliation: Los Alamos National Laboratory
+        roles: [maintainer]
+      - name: Eric Van Hensbergen
+        affiliation: ARM
+        roles: [maintainer, testing-coordinator]
+      - name: Douglas Jacobsen
+        affiliation: NERSC
+        roles: [end-user-representative]
+      - name: Chulho Kim
+        affiliation: Lenovo
+        roles: [maintainer]
+      - name: Greg Kurtzer
+        affiliation: Lawrence Berkeley National Labs
+        roles: [component-development-representative]
+      - name: Thomas Moschny
+        affiliation: ParTec
+        roles: [maintainer]
+      - name: Karl W. Schulz
+        affiliation: Intel
+        roles: [project-lead, testing-coordinator]
+      - name: Derek Simmel
+        affiliation: Pittsburgh Supercomputing Center
+        roles: [end-user-representative]
+      - name: Thomas Sterling
+        affiliation: Indiana University
+        roles: [component-development-representative]
+      - name: Craig Stewart
+        affiliation: Indiana University
+        roles: [end-user-representative]
+      - name: Scott Suchyta
+        affiliation: Altair
+        roles: [maintainer]
+      - name: Nirmala Sundararajan
+        affiliation: Dell
+        roles: [maintainer]
+    linux-foundation-support:
+      - name: Jeff ErnstFriedman
+        role: OpenHPC Program Manager
