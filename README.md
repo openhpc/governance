@@ -21,7 +21,7 @@ authoritative document for the proceedings of the Governing Board and the TSC.
 
 Edit `tsc.yaml` and regenerate `TSC.md`:
 
-```
+```sh
 ./scripts/render-tsc.py
 ```
 
@@ -29,6 +29,12 @@ Edit `tsc.yaml` and regenerate `TSC.md`:
 A GitHub Actions workflow runs this check on every push and pull request,
 so a pull request that edits `tsc.yaml` must also include the regenerated
 `TSC.md`.
+
+## Linting
+
+Every push and pull request is also checked with
+[markdownlint](https://github.com/DavidAnson/markdownlint) (configuration in
+`.markdownlint.json`) and for trailing whitespace.
 
 ## License
 

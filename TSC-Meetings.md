@@ -17,7 +17,8 @@ Passcode is required by Zoom, but is embedded in this link.
 
 Slides for meetings from mid-2018 onwards are stored in the [meetings](meetings/) directory of this repository as `YYYY-MM-DD-tsc.pdf`, so that the directory listing sorts chronologically. Older slides link to the OpenHPC website.
 
-### 2026
+## 2026
+
 * Sep  30, 2026 Meeting [PDF](meetings/2026-09-30-tsc.pdf)
 * Sep  16, 2026 Meeting [PDF](meetings/2026-09-16-tsc.pdf)
 * Jul  22, 2026 Meeting [PDF](meetings/2026-07-22-tsc.pdf)
@@ -30,7 +31,8 @@ Slides for meetings from mid-2018 onwards are stored in the [meetings](meetings/
 * Feb  04, 2026 Meeting [PDF](meetings/2026-02-04-tsc.pdf)
 * Jan  07, 2026 Meeting [PDF](meetings/2026-01-07-tsc.pdf)
 
-### 2025
+## 2025
+
 * Oct  29, 2025 Meeting [PDF](meetings/2025-10-29-tsc.pdf)
 * Oct  15, 2025 Meeting [PDF](meetings/2025-10-15-tsc.pdf)
 * Oct  01, 2025 Meeting [PDF](meetings/2025-10-01-tsc.pdf)
@@ -43,7 +45,8 @@ Slides for meetings from mid-2018 onwards are stored in the [meetings](meetings/
 * Mar  19, 2025 Meeting [PDF](meetings/2025-03-19-tsc.pdf)
 * Feb  05, 2025 Meeting [PDF](meetings/2025-02-05-tsc.pdf)
 
-### 2024
+## 2024
+
 * Dec  11, 2024 Meeting [PDF](meetings/2024-12-11-tsc.pdf)
 * Nov  13, 2024 Meeting [PDF](meetings/2024-11-13-tsc.pdf)
 * Oct  30, 2024 Meeting [PDF](meetings/2024-10-30-tsc.pdf)
@@ -52,7 +55,8 @@ Slides for meetings from mid-2018 onwards are stored in the [meetings](meetings/
 * Aug  07, 2024 Meeting [PDF](meetings/2024-08-07-tsc.pdf)
 * Jul  24, 2024 Meeting [PDF](meetings/2024-07-24-tsc.pdf)
 
-### 2023
+## 2023
+
 * Nov  01, 2023 Meeting [PDF](meetings/2023-11-01-tsc.pdf)
 * Oct  04, 2023 Meeting [PDF](meetings/2023-10-04-tsc.pdf)
 * Sep  20, 2023 Meeting [PDF](meetings/2023-09-20-tsc.pdf)
@@ -69,7 +73,8 @@ Slides for meetings from mid-2018 onwards are stored in the [meetings](meetings/
 * Feb  08, 2023 Meeting [PDF](meetings/2023-02-08-tsc.pdf)
 * Jan  25, 2023 Meeting [PDF](meetings/2023-01-25-tsc.pdf)
 * Jan  11, 2023 Meeting [PDF](meetings/2023-01-11-tsc.pdf)
-### 2022
+
+## 2022
 
 * Dec  14, 2022 Meeting [PDF](meetings/2022-12-14-tsc.pdf)
 * Nov  02, 2022 Meeting [PDF](meetings/2022-11-02-tsc.pdf)
@@ -89,7 +94,7 @@ Slides for meetings from mid-2018 onwards are stored in the [meetings](meetings/
 * Jan. 26, 2022 Meeting [PDF](meetings/2022-01-26-tsc.pdf)
 * Jan. 12, 2022 Meeting [PDF](meetings/2022-01-12-tsc.pdf)
 
-### 2021
+## 2021
 
 * Dec. 01, 2021 Meeting [PDF](meetings/2021-12-01-tsc.pdf)
 * Nov. 03, 2021 Meeting [PDF](meetings/2021-11-03-tsc.pdf)
@@ -109,7 +114,7 @@ Slides for meetings from mid-2018 onwards are stored in the [meetings](meetings/
 * Jan. 27, 2021 Meeting [PDF](meetings/2021-01-27-tsc.pdf)
 * Jan. 13, 2021 Meeting [PDF](meetings/2021-01-13-tsc.pdf)
 
-### 2020
+## 2020
 
 * Dec. 16, 2020 Meeting [PDF](meetings/2020-12-16-tsc.pdf)
 * Nov. 18, 2020 Meeting [PDF](meetings/2020-11-18-tsc.pdf)
@@ -133,8 +138,7 @@ Slides for meetings from mid-2018 onwards are stored in the [meetings](meetings/
 * Jan. 29, 2020 Meeting [PDF](meetings/2020-01-29-tsc.pdf)
 * Jan. 15, 2020 Meeting [PDF](meetings/2020-01-15-tsc.pdf)
 
-
-### 2019
+## 2019
 
 * Dec. 04, 2019 Meeting [PDF](meetings/2019-12-04-tsc.pdf)
 * Nov. 06, 2019 Meeting [PDF](meetings/2019-11-06-tsc.pdf)
@@ -155,7 +159,8 @@ Slides for meetings from mid-2018 onwards are stored in the [meetings](meetings/
 * Jan. 30, 2019 Meeting [PDF](meetings/2019-01-30-tsc.pdf)
 * Jan. 16, 2019 Meeting [PDF](meetings/2019-01-16-tsc.pdf)
 
-### 2018
+## 2018
+
 * Dec. 12, 2018 Meeting [PDF](meetings/2018-12-12-tsc.pdf)
 * Nov. 28, 2018 Meeting [PDF](meetings/2018-11-28-tsc.pdf)
 * Nov. 07, 2018 Meeting [PDF](meetings/2018-11-07-tsc.pdf)
@@ -181,11 +186,12 @@ Slides for meetings from mid-2018 onwards are stored in the [meetings](meetings/
 * Jan. 23, 2018 Meeting: [PDF](http://www.openhpc.community/wp-content/uploads/OpenHPC-TSC-Board-20180123-v1.0.pdf)
 * Jan. 09, 2018 Meeting: [PDF](http://www.openhpc.community/wp-content/uploads/OpenHPC-TSC-Board-20180108-v1.0.pdf)
 
-### 2017
+## 2017
+
 * Dec. 05, 2017 Meeting: [PDF](http://www.openhpc.community/wp-content/uploads/OpenHPC-TSC-Board-20171205-v1.0.pdf)
 * Nov. 07, 2017 Meeting: [PDF](http://www.openhpc.community/wp-content/uploads/OpenHPC-TSC-Board-20171107-v1.0.pdf)
 * Oct. 31, 2017 Meeting: [PDF](http://www.openhpc.community/wp-content/uploads/OpenHPC-TSC-Board-20171031-v1.0.pdf)
-* Oct. 24, 2017 Meeting: [PDF]()
+* Oct. 24, 2017 Meeting (no slides available)
 * Oct. 17, 2017 Meeting: [PDF](http://www.openhpc.community/wp-content/uploads/OpenHPC-TSC-Board-20171017-v1.0.pdf)
 * Oct. 10, 2017 Meeting: [PDF](http://www.openhpc.community/wp-content/uploads/OpenHPC-TSC-Board-20171010-v1.0.pdf)
 * Sept. 26, 2017 Meeting: [PDF](http://www.openhpc.community/wp-content/uploads/OpenHPC-TSC-General-Meeting-20170926.pdf)
@@ -205,7 +211,8 @@ Slides for meetings from mid-2018 onwards are stored in the [meetings](meetings/
 * Jan. 10, 2017 Meeting: [PDF](http://bit.ly/ohpctsc20170110agenda)
 * Dec. 13, 2016 Meeting: [PDF](http://bit.ly/ohpctsc20161213agenda)
 
-### 2016
+## 2016
+
 * Dec. 06, 2016 Meeting: [PDF](http://bit.ly/ohpctsc20161206agenda)
 * Nov. 29, 2016 Meeting: [PDF](http://bit.ly/ohpctsc20161129agenda)
 * Nov. 16, 2016 Meeting: [PDF](http://bit.ly/ohpctsc20161116agenda)
