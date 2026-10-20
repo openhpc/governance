@@ -1,0 +1,28 @@
+name: Lint
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  lint_markdown:
+    name: Run markdown linter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Lint markdown
+        uses: DavidAnson/markdownlint-cli2-action@v24.2.0
+        with:
+          globs: "**/*.md"
+
+  lint_whitespace:
+    name: Run whitespace linter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Check for trailing whitespace
+        run: |
+          ! git --no-pager grep -nE '\s+$' -- '*.md' '*.yaml' '*.yml' '*.py' '*.json'
