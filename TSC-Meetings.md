@@ -19,6 +19,7 @@ Slides for meetings from mid-2018 onwards are stored in the [meetings](meetings/
 
 ## 2026
 
+* Oct  28, 2026 Meeting [PDF](meetings/2026-10-28-tsc.pdf)
 * Oct  14, 2026 Meeting [PDF](meetings/2026-10-14-tsc.pdf)
 * Sep  30, 2026 Meeting [PDF](meetings/2026-09-30-tsc.pdf)
 * Sep  16, 2026 Meeting [PDF](meetings/2026-09-16-tsc.pdf)
